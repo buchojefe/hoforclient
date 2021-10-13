@@ -1,0 +1,481 @@
+[Message:   BepInEx] BepInEx 5.4.16.0 - valheim (2/10/2021 6:29:46 a. m.)
+[Info   :   BepInEx] Running under Unity v2019.4.24.6137584
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.16.0]
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.MonoMod.HookGenPatcher 1.2.0.0]
+[Info   :   BepInEx] 2 patcher plugins loaded
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :HookGenPatcher] Previous MMHOOK location found. Using that location to save instead.
+[Info   :HookGenPatcher] Already ran for this version, reusing that file.
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 17 plugins to load
+[Info   :   BepInEx] Loading [Forgotten Biomes 0.0.12]
+[Info   : Unity Log] 10/12/2021 22:03:20: Forgotten_Biomes: Running on Windows based server 
+
+[Info   : Unity Log] 10/12/2021 22:03:20: Forgotten_Biomes: loaded config from : Q:\Valheim\BepInEx\plugins\Forgotten_Biomes\ashlands.veg
+
+[Info   : Unity Log] 10/12/2021 22:03:20: Forgotten_Biomes: loaded config from : Q:\Valheim\BepInEx\plugins\Forgotten_Biomes\deepnorth.veg
+
+[Info   : Unity Log] 10/12/2021 22:03:20: Forgotten_Biomes: loaded config from : Q:\Valheim\BepInEx\plugins\Forgotten_Biomes\mistlands.veg
+
+[Info   : Unity Log] 10/12/2021 22:03:20: Forgotten_Biomes: loaded config from : Q:\Valheim\BepInEx\plugins\Forgotten_Biomes\hiddenlocations.loc
+
+[Info   : Unity Log] 10/12/2021 22:03:20: Forgotten_Biomes: loaded config from : Q:\Valheim\BepInEx\plugins\Forgotten_Biomes\disabledlocation.loc
+
+[Info   : Unity Log] 10/12/2021 22:03:20: Forgotten_Biomes: loaded config from : Q:\Valheim\BepInEx\plugins\Forgotten_Biomes\removelocation.loc
+
+[Info   :   BepInEx] Loading [Custom Raids 1.4.0]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [Spawn That! 0.11.3]
+[Message:Spawn That!] Loading general configurations
+[Message:Spawn That!] Finished loading general configurations
+[Info   :   BepInEx] Loading [Drop That! 2.1.0]
+[Message:Drop That!] Loading general configuration from Q:\Valheim\BepInEx\config\drop_that.cfg.
+[Info   :   BepInEx] Loading [RRRCore 0.2.10]
+[Info   :   BepInEx] Loading [RRRMonsters 0.2.2]
+[Info   :   BepInEx] Loading [RRRNpcs 0.2.3]
+[Info   :   BepInEx] Loading [Network Fix 1.1.0]
+[Info   :Network Fix] MaxSendQueueSize has been changed to 262144
+[Info   :   BepInEx] Loading [Jotunn 2.3.7]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Jötunn v2.3.7 loaded successfully
+[Info   :   BepInEx] Loading [Terraheim 2.2.0]
+[Info   : Unity Log] 10/12/2021 22:03:22: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/12/2021 22:03:22: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 10/12/2021 22:03:22: Loaded localization CSV:localization language:Spanish
+
+[Info   : Unity Log] 10/12/2021 22:03:22: Loaded localization CSV:localization_extra language:Spanish
+
+[Warning:Terraheim.Log] No translation file found for Spanish; defaulting to English
+[Info   :Terraheim.Log] Loaded localization for English
+[Info   :Terraheim.Log] Status Effects Injected
+[Info   :Terraheim.Log] Chaos Armor Found!
+[Info   :Terraheim.Log] Judes Equipment Found!
+[Info   :Terraheim.Log] Patching complete
+[Info   :   BepInEx] Loading [TerraheimItems 2.1.0]
+[Warning:TerraheimItems] No translation file found for Spanish; defaulting to English
+[Info   :TerraheimItems] Loaded localization for English
+[Info   :TerraheimItems] Patching complete
+[Info   :   BepInEx] Loading [MonsterLabZ 1.7.0]
+[Info   :   BepInEx] Loading [BlacksmithTools 2.0.1]
+[Info   :   BepInEx] Loading [JudesEquipment 1.2.1]
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.9] is up to date.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [ChaosArmor 6.0.2]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 10/12/2021 22:03:33: Starting to load scene:start
+
+[Info   : Unity Log] loaded Blacksmith's Tools
+[Message:JudesEquipment] Blacksmith's tools found.
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11@0.9.9
+[Info   : Unity Log] 10/12/2021 22:03:38: Valheim version:0.203.11@0.9.9
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11@0.9.9
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 10/12/2021 22:03:38: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11@0.9.9
+[Info   : Unity Log] 10/12/2021 22:03:38: Using steam_appid.txt
+
+[Info   : Unity Log] 10/12/2021 22:03:38: Using steam APPID:892970
+
+[Info   : Unity Log] 10/12/2021 22:03:39: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 10/12/2021 22:03:39: Steam initialized, persona:Bucho
+
+[Warning: Unity Log] 10/12/2021 22:03:39: Missing audio clip in music respawn
+
+[Info   : Unity Log] 10/12/2021 22:03:39: Checking for installed DLCs
+
+[Info   : Unity Log] 10/12/2021 22:03:39: DLC:beta installed:False
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11@0.9.9
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 10/12/2021 22:03:50: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 10/12/2021 22:03:50: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Info   : Unity Log] 10/12/2021 22:03:50: Loaded localization CSV:localization language:Spanish
+
+[Info   : Unity Log] 10/12/2021 22:03:50: Loaded localization CSV:localization_extra language:Spanish
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'Spanish'
+[Warning:RRRMonsters] True
+[Info   :Jotunn.Managers.ItemManager] Adding 178 custom items to the ObjectDB
+[Warning:RRRMonsters] True
+[Info   : Unity Log] 10/12/2021 22:03:52: UI Group status changed Menu = True
+
+[Info   : Unity Log] 10/12/2021 22:03:54: UI Group status changed Menu = True
+
+[Info   : Unity Log] 10/12/2021 22:04:19: FOund selected Start game
+
+[Info   : Unity Log] 10/12/2021 22:04:19: show character selection
+
+[Info   : Unity Log] 10/12/2021 22:04:23: OnCharacterStart
+
+[Message:Spawn That!] Loading all configs.
+[Message:Spawn That!] Loading general configurations
+[Message:Spawn That!] Finished loading general configurations
+[Message:Spawn That!] Loading simple configurations
+[Message:Spawn That!] Loading world spawner configurations.
+[Message:Spawn That!] Loading local spawner configurations.
+[Message:Spawn That!] Config loading took: 00:00:00.2129389
+[Message:Drop That!] Loading general configuration from Q:\Valheim\BepInEx\config\drop_that.cfg.
+[Message:Drop That!] Loading character drop lists
+[Message:Drop That!] Loading character drop configurations
+[Message:Drop That!] Loading drop table lists
+[Message:Drop That!] Loading drop table configurations
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11@0.9.9
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 10/12/2021 22:04:34: Loading player profile tazudo
+
+[Info   : Unity Log] 10/12/2021 22:04:34: Zonesystem Awake 2051
+
+[Info   : Unity Log] 10/12/2021 22:04:34: DungeonDB Awake 2051
+
+[Info   : Unity Log] 10/12/2021 22:04:34: Steam initialized, persona:Bucho
+
+[Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
+[Info   :Jotunn.Managers.PrefabManager] Adding 186 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.ItemManager] Adding 178 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 175 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 80 custom status effects to the ObjectDB
+[Warning:RRRMonsters] True
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\BlackSpider\rrrmonsters.custom.BlackSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\BrownSpider\rrrmonsters.custom.BrownSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\FireGolem\rrrmonsters.custom.FireGolem.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\ForestSpider\rrrmonsters.custom.FrostSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\FrigidSpider\rrrmonsters.custom.FrigidSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\FrostSpider\rrrmonsters.custom.FrostSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\GhostWarrior\rrrmonsters.custom.GhostWarrior.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\GreenSpider\rrrmonsters.custom.GreenSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\IceGolem\rrrmonsters.custom.FrostGolem.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\SkeletonWarrior\rrrmonsters.custom.SkeletonWarrior.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\SkeletonWarriorFire\rrrmonsters.custom.SkeletonWarriorFire.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\SkeletonWarriorIce\rrrmonsters.custom.SkeletonWarriorIce.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\TanSpider\rrrmonsters.custom.TanSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\MonsterLabZ\TreeSpider\rrrmonsters.custom.TreeSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshHatchling.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshMosquito.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.AshNeck.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingBones.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BlazingDamnedOne.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.BurnedBones.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.DamnedOne.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.ElderSurtling.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SmallAshNeck.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ashlands\rrrmonsters.custom.SwollenBody.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngryFrozenCorpse.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.AngrySpirit.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.CalmSpirit.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DevourerFenring.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Dvergr.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.DvergrEvent.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.ForgottenOne.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.FrozenCorpse.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.Jotunn.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarFenring.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.PolarLox.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SilverGolem.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmallPolarLox.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_DeepNorth\rrrmonsters.custom.SmalPolarSerpent.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkMosquito.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkProtector.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.DarkSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.MotherDarkSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.PoisonDarkSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SmallDarkSpider.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.Svartalfr.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrArcher.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrBrigade.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrHeavy.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrMage.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Mistlands\rrrmonsters.custom.SvartalfrQueen.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.DrownedSoul.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Ocean\rrrmonsters.custom.StormHatchling.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.GuardianBoar.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormBoar.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormFenring.json
+[Info   :RRRMonsters] Loading: Q:\Valheim\BepInEx\config\Monsternomicon\Monsternomicon_Others\rrrmonsters.custom.StormWolf.json
+[Info   :Jotunn.Managers.PieceManager] Adding 6 custom pieces to the PieceTables
+[Info   :Jotunn.Managers.MockManager] Destroying Mock prefabs
+[Info   : Unity Log] 10/12/2021 22:04:39: Audioman already exist, destroying self
+
+[Info   : Unity Log] Version generator started.
+[Info   : Unity Log] Version generated with enforced mod : 0.203.11@0.9.9
+[Info   : Unity Log] 10/12/2021 22:04:39: Checking for installed DLCs
+
+[Info   : Unity Log] 10/12/2021 22:04:39: DLC:beta installed:False
+
+[Info   : Unity Log] 10/12/2021 22:04:42: Zonesystem Start 2051
+
+[Info   : Unity Log] 10/12/2021 22:04:43: Added 3 locations from locations_cp1
+
+[Info   : Unity Log] 10/12/2021 22:04:43: DungeonDB Start 2051
+
+[Info   : Unity Log] 10/12/2021 22:04:43: Load world NewWorld
+
+[Info   : Unity Log] 10/12/2021 22:04:43: Loading 392331 zdos , my id 1466940331 data version:28
+
+[Info   : Unity Log] 10/12/2021 22:04:45: Loaded 100000 dead zdos
+
+[Info   : Unity Log] 10/12/2021 22:04:45: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 10/12/2021 22:04:45: Loaded 7399 locations
+
+[Info   : Unity Log] 10/12/2021 22:04:45: Starting respawn
+
+[Info   : Unity Log] 10/12/2021 22:04:55: Unpacking compressed mapdata 16604
+
+[Info   : Unity Log] 10/12/2021 22:04:55: tip:$loadscreen_tip04
+
+[Info   : Unity Log] 10/12/2021 22:05:03: Spawned after 8,019994
+
+[Info   : Unity Log] 10/12/2021 22:05:03: Minimap: Adding unique location (66.6, 33.4, 194.9)
+
+[Info   : Unity Log] 10/12/2021 22:05:03: Minimap: Adding unique location (45.5, 47.3, -1549.2)
+
+[Info   : Unity Log] 10/12/2021 22:05:05: Resumed music meadows at 0
+
+[Info   : Unity Log] 10/12/2021 22:05:21: Setting selected recipe 0
+
+[Info   : Unity Log] 10/12/2021 22:05:21: UI Group status changed root = True
+
+[Info   : Unity Log] 10/12/2021 22:05:21: UI Group status changed Player = True
+
+[Info   : Unity Log] 10/12/2021 22:05:27: drop all 2  2
+
+[Info   : Unity Log] 10/12/2021 22:05:28: drop all 6  6
+
+[Info   : Unity Log] 10/12/2021 22:05:28: drop all 2  2
+
+[Info   : Unity Log] 10/12/2021 22:05:29: drop all 1  1
+
+[Info   : Unity Log] 10/12/2021 22:05:40: Possible events:1
+
+[Info   : Unity Log] 10/12/2021 22:05:40: Random event set:StormBoarEncounter
+
+[Info   : Unity Log] 10/12/2021 22:05:41: Spawned RRRM_StormBoar x 1
+
+[Info   : Unity Log] 10/12/2021 22:05:44: Stoped music meadows at 1700966
+
+[Info   : Unity Log] 10/12/2021 22:05:44: Resumed music CombatEventL2 at 0
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 10/12/2021 22:06:45: Stoped music CombatEventL2 at 2701977
+
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch Start) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Message:Terraheim.Log] Terraheim (AttackPatch GetStaminaUsage) | Weapon is null, grabbing directly
+[Info   : Unity Log] 10/12/2021 22:07:43: Valid True
+
+[Info   : Unity Log] 10/12/2021 22:07:43: On death False
+
+[Info   : Unity Log] 10/12/2021 22:08:13: UI Group status changed MenuRoot = True
+
+[Info   : Unity Log] 10/12/2021 22:08:15: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 10/12/2021 22:08:16: Game - OnApplicationQuit
+
+[Info   : Unity Log] 10/12/2021 22:08:16: Shuting down
+
+[Info   : Unity Log] 10/12/2021 22:08:16: Uncompressed size 8391460
+
+[Info   : Unity Log] 10/12/2021 22:08:16: Compressed size 16604
+
+[Info   : Unity Log] 10/12/2021 22:08:16: ZNet Shutdown
+
+[Info   : Unity Log] 10/12/2021 22:08:17: clone 619
+
+[Info   : Unity Log] 10/12/2021 22:08:19: Sending disconnect msg
+
